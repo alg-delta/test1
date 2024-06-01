@@ -1,0 +1,521 @@
+.img1 {
+	width:300px;
+}
+
+.menu {
+	text-decoration:none;
+	list-style: none;
+	margin:3;
+	padding:0;
+	display:flex;
+	text-align: center !important;
+}
+.menu a:hover {
+	background-color: white;
+	color: black;
+	border-left: 8px solid white;
+}
+.menu li {
+	border: 3px solid #B8B8B8;
+	border-bottom: 2px solid #B8B8B8;
+	background-color: #B8B8B8;
+	color:black;
+	margin-right:20px;
+}
+
+.menu a {
+	text-decoration: none;
+	display: block;
+	color: black;
+	font-weight: bold;
+	padding: 5px;
+}
+.menu a.active {
+	background-color: #B8B8B8;
+	color: white;
+}
+
+.img2 {
+	width:700px;
+}
+.bdp_menu {
+	color:#605e5e;
+	font-style:italic;
+	font-weight:500;
+	font-family:impact;
+}
+.bdp-menu-mini {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 17px;
+}
+
+.center-main {
+	width:1000px;
+	margin: 0 auto;
+}
+.pochatok {
+	width:700px;
+	margin: 0 auto;
+}
+
+.text-classic-pizza {
+	color:#605e5e;
+	text-decoration: underline;
+	font-weight:500;
+	font-family:impact;
+}
+
+.menu-mini {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 17px;
+}
+.menu1 {
+	width: 250px;
+	height:250px;
+}
+
+.text-menu1 {
+	font-family:impact;
+	color:#605e5e;
+	text-decoration: underline;
+}
+.text-menu1-mini {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 17px;
+}
+
+.text-menu2 {
+	font-family:impact;
+	color:#605e5e;
+	text-decoration: underline;
+}
+.text-menu2-mini {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 17px;
+}
+.menu2 {
+	width: 250px;
+	height:250px;
+	border: 5px solid #34AABA; 
+}
+.star-wrap {
+	position: relative;
+}
+.star2 {
+	width:50px;
+	position: absolute;
+	left:100px;
+}
+
+.text-menu3 {
+	font-family:impact;
+	color:#605e5e;
+	text-decoration: underline;
+}
+.text-menu3-mini {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 17px;
+}
+.menu3 {
+	width: 250px;
+	height:250px;
+	border: 5px solid #34AABA; 
+}
+
+.star3 {
+	width:50px;
+	position: absolute;
+	left:100px;
+}
+
+.text-menu4 {
+	font-family:impact;
+	color:#605e5e;
+	text-decoration: underline;
+}
+.text-menu4-mini {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 17px;
+}
+.menu4 {
+	width: 250px;
+	height:250px;
+	border: 5px solid #34AABA; 
+}
+
+.star4 {
+	width:50px;
+	position: absolute;
+	left:100px;
+}
+
+.SpecialPizza-text {
+	color:#605e5e;
+	font-style:italic;
+	font-weight:500;
+	font-family:impact;
+}
+.own-png {
+	width:700px;
+	height:230.74;
+}
+
+.SpecialPizza-text-mini {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 17px;
+}
+	
+.text-menu5 {
+	font-family:impact;
+	color:#605e5e;
+	text-decoration: underline;
+}
+.text-menu5-mini {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 17px;
+}
+.menu5 {
+	width: 250px;
+	height:250px;
+	border: 5px solid #34AABA; 
+}
+
+.star5 {
+	width:50px;
+	position: absolute;
+	left:100px;
+}
+
+.text-menu6 {
+	font-family:impact;
+	color:#605e5e;
+	text-decoration: underline;
+}
+.text-menu6-mini {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 17px;
+}
+.menu6 {
+	width: 250px;
+	height:250px; 
+}
+.pid-text {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 15px;
+}
+
+.about-us {
+	font-family: Impact !important;
+	font-size: 50px !important;
+	text-shadow: #247782 0px 5px 0px;
+	font-style: italic;
+	font-weight: 400;
+	text-align:center;
+}
+
+.kvadrat-pid {
+	width: 700px;
+	height: 630px;
+	border: 1px solid #39b2bf;
+	background-color: #39b2bf;
+}
+.foto-about1 {
+	width:400px;
+	border: 10px solid white;
+	margin-left: 50px;
+	position: relative;
+	z-index:100;
+}
+
+.foto-about2 {
+	 width:270px;
+	 margin-top: -70px;
+	 margin-left: 350px;
+	 border: 10px solid white;
+}
+
+.foto-about3 {
+	width:300px;
+	margin-top:-80px;
+	box-shadow: 0 0 10px black;
+	border: 10px solid white;
+	margin-left: 20px;
+}
+.gol-about1 {
+	text-align:center;
+	color:#605e5e;
+}
+.pid-about1 {
+	text-align:center;
+	color: #23717c;
+}
+.about-fotochka {
+	width:700px;
+}
+
+.TheTeam {
+	font-family: Impact !important;
+	font-size: 47px !important;
+	text-shadow:#77DD77 0px 5px 0px ;
+	font-style: italic;
+	font-weight: 400;
+}
+.megabyte-info {
+	width:158px;
+	vertical-align: top;
+}
+
+.megabyte-info-text {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 34px;
+}
+
+.megabyte-info-text1 {
+	color:#605e5e;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+	font-size: 20px;
+	
+}
+
+.teamchik {
+	display:flex;
+	align-items: center;
+	gap:10px;
+}
+
+.angelica-info {
+	width:158px;
+	vertical-align: top;
+}
+
+.angelica-info-text {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 34px;
+}
+
+.angelica-info-text1 {
+	color:#605e5e;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+	font-size: 20px;
+	
+}
+
+.teamchik1 {
+	display:flex;
+	align-items: center;
+	gap:10px;
+}
+
+.robot-contact {
+	width:400px;
+	background-position: center;
+	margin-left: 40px;
+}
+
+.kvadratik {
+	width: 500px;
+	height: 700px;
+	border: 1px solid #87ceeb;
+	background-color: #87ceeb;
+}
+
+.say-hello {
+	color:#605e5e;
+	font-style:italic;
+	font-weight:500;
+	font-family:impact, cursive, sans-serif;
+	text-align: center;
+	font-size: 48px;
+	margin-top:-5px;
+}
+
+.zakaz-text {
+	color:#605e5e;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+	font-size: 17px;
+	text-align: center;
+}
+
+.phone1 {
+	color:#605e5e;
+	font-style:italic;
+	font-weight:500;
+	font-family:impact, cursive, sans-serif;
+}
+
+.email1 {
+	color:#605e5e;
+	font-style:italic;
+	font-weight:500;
+	font-family:impact, cursive, sans-serif;
+}
+
+.phone2 {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+} 
+
+.email2 {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+}
+
+.tutur {
+	display: inline-block;
+	margin-right:20px;
+	margin-left:20px;
+}
+
+.visit-us {
+	color:#605e5e;
+	font-style:italic;
+	font-weight:500;
+	font-family:impact, cursive, sans-serif;
+	margin-left:180px;
+	font-size: 48px;
+}
+
+.visit-us-pid {
+	color:#909090;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+	margin-left:100px;
+}
+
+.adress {
+	color:#605e5e;
+	font-style:italic;
+	font-weight:500;
+	font-family:impact, cursive, sans-serif;
+	margin-left:200px;
+	font-size: 48px;
+}
+
+.adress1 {
+	color:#909090;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+	margin-left:60px;
+	margin-top:-16px;
+}
+
+.hours {
+	color:#605e5e;
+	font-style:italic;
+	font-weight:500;
+	font-family:impact, cursive, sans-serif;
+	margin-left:160px;
+	font-size: 48px;
+}
+
+.hours1 {
+	color:#909090;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+	margin-left:60px;
+	margin-top:-16px;
+}
+
+.pid-text1 {
+	color:#23717C;
+	font-family: cursive, sans-serif;
+    font-weight: 400;
+    word-spacing: 2px;
+    font-size: 15px;
+	margin-left:60px;
+	margin-top:20px;
+}
+
+.up {
+	position:fixed;
+	bottom:30px;
+	right:470px;
+	width:70px;
+	height:70px;
+	background-color:#247782;
+}
+
+.up  a {
+	text-decoration:none;
+	font-size:28px;
+	color: white;
+}
+
+.up2 {
+	position:fixed;
+	bottom:30px;
+	right:330px;
+	width:70px;
+	height:70px;
+	background-color:#247782;
+}
+
+.up2  a {
+	text-decoration:none;
+	font-size:28px;
+	color: white;
+}
+
+.up3 {
+	position:fixed;
+	bottom:30px;
+	right:420px;
+	width:70px;
+	height:70px;
+	background-color:#247782;
+}
+
+.up3  a {
+	text-decoration:none;
+	font-size:28px;
+	color: white;
+}
